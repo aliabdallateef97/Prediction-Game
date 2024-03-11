@@ -1,0 +1,10 @@
+export {default as ArrowDropDownIcon} from '@mui/icons-material/ArrowDropDown'
+export {default as ArrowDropUpIcon}  from '@mui/icons-material/ArrowDropUp';
+export {default as AccessTimeIcon}  from '@mui/icons-material/AccessTime';
+export {default as PersonIcon} from '@mui/icons-material/Person';
+export {default as SpeedIcon} from '@mui/icons-material/Speed';
+export {default as EmojiEventsIcon} from '@mui/icons-material/EmojiEvents';
+export {default as MilitaryTechIcon} from '@mui/icons-material/MilitaryTech';
+export {default as BarChartIcon} from '@mui/icons-material/BarChart';
+export {default as ChatBubbleIcon} from '@mui/icons-material/ChatBubble';
+export {default as WbSunnyIcon} from '@mui/icons-material/WbSunny';
